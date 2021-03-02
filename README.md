@@ -17,10 +17,10 @@
 <img class="project-pic" src="https://lh3.googleusercontent.com/proxy/jsyq2oniV7VrNZVxjR7sunrArTRGrhsdJeCRkSCcFny9oihZ15uKZm6ECoYwfoYAtUNkg5YgylG0k2RDFN7MM9BTwiEiqkt3e5nz0530t1t0mPlkTEY" style="width: 150px;" />
 <p></p>
 <img class="project-pic" src="https://media.tenor.com/images/9df5f6ef799544b11c1171d4c873d1f4/tenor.gif" style="width: 150px;" />
-<img class="project-pic" src="https://i.pinimg.com/originals/df/56/f1/df56f143904aa8915bb3627b428e360c.gif" style="width: 150px;" />
+<img class="project-pic" src="http://animaals.com/wp-content/uploads/2016/08/chat-chien-marrer-journee-gif-12.gif" style="width: 150px;" />
 <img class="project-pic" src="https://downloadwap.com/thumbs3/screensavers/d/new/fun/funny_cat-195280.gif" style="width: 150px;" />
 <p></p>
-<img class="project-pic" src="http://animaals.com/wp-content/uploads/2016/08/chat-chien-marrer-journee-gif-12.gif" style="width: 150px;" />
+<img class="project-pic" src="https://i.pinimg.com/originals/df/56/f1/df56f143904aa8915bb3627b428e360c.gif" style="width: 150px;" />
 <img class="project-pic" src="https://img.buzzfeed.com/buzzfeed-static/static/2014-10/3/14/enhanced/webdr08/anigif_enhanced-32596-1412362472-4.gif?output-quality=auto&output-format=auto&downsize=360:*" style="width: 150px;" />
 <img class="project-pic" src="http://welikeit.fr/wp-content/uploads/2014/01/w0nlt694SDefGsmowoIt_atomic-wedgies-simpsons.gif" style="width: 150px;" />
 <p></p>
