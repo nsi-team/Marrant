@@ -25,11 +25,11 @@
 <img class="project-pic" src="http://welikeit.fr/wp-content/uploads/2014/01/w0nlt694SDefGsmowoIt_atomic-wedgies-simpsons.gif" style="width: 150px;" />
 <p></p>
 <p></p>
-    <a href="https://nsi-team.github.io/Sondage/">SONDAGE !</a>
-    <p></p>
+    <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
+    <p> </p>
     <a href="https://nsi-team.github.io/About_us/">About us</a>
+    <p></p>
     <a href="https://nsi-team.github.io/Help/">Help</a>
+    <p></p>
     <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
-    </body>
-</html>
-<p></p>
+
