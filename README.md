@@ -24,10 +24,12 @@
 <img class="project-pic" src="https://img.buzzfeed.com/buzzfeed-static/static/2014-10/3/14/enhanced/webdr08/anigif_enhanced-32596-1412362472-4.gif?output-quality=auto&output-format=auto&downsize=360:*" style="width: 150px;" />
 <img class="project-pic" src="http://welikeit.fr/wp-content/uploads/2014/01/w0nlt694SDefGsmowoIt_atomic-wedgies-simpsons.gif" style="width: 150px;" />
 <p></p>
-    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
-    <p> </p>
-    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
+<p></p>
+    <a href="https://nsi-team.github.io/Sondage/">SONDAGE !</a>
     <p></p>
-    <a href="https://maevebestdev.github.io/Help/">Help</a>
-    <p></p>
-    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
+    <a href="https://nsi-team.github.io/About_us/">About us</a>
+    <a href="https://nsi-team.github.io/Help/">Help</a>
+    <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
+    </body>
+</html>
+<p></p>
