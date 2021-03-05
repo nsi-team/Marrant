@@ -5,14 +5,11 @@
     </head>
 
   <body>
-    <form role="search">
-  <div>
-    <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
-  </div>
-</form><img class="project-pic" src="http://pa1.narvii.com/6972/730d721aea55e900a448731815cbe434f993e86fr1-320-240_00.gif" style="width: 150px;" />
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
+</form>
+    <img class="project-pic" src="http://pa1.narvii.com/6972/730d721aea55e900a448731815cbe434f993e86fr1-320-240_00.gif" style="width: 150px;" />
 <img class="project-pic" src="https://i.pinimg.com/originals/29/1d/03/291d0392aea9b01a08bb6a1333d6f2ea.gif" style="width: 150px;" />
 <img class="project-pic" src="https://lh3.googleusercontent.com/proxy/jsyq2oniV7VrNZVxjR7sunrArTRGrhsdJeCRkSCcFny9oihZ15uKZm6ECoYwfoYAtUNkg5YgylG0k2RDFN7MM9BTwiEiqkt3e5nz0530t1t0mPlkTEY" style="width: 150px;" />
 <p></p>
