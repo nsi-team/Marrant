@@ -6,7 +6,7 @@
 
   <body>
 <form>
-<input type="text" id="input" name="input" value="">
+<input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <img class="project-pic" src="http://pa1.narvii.com/6972/730d721aea55e900a448731815cbe434f993e86fr1-320-240_00.gif" style="width: 150px;" />
