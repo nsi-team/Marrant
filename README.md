@@ -11,7 +11,7 @@
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
 <p>Résultat de recherche pour "marrant"</p>    
-<img class="project-pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjWRQ5XYvEtwrLggzYBbzdHnc6tXiQsbblg&usqp=CAU" style="width: 150px;" />
+<img class="project-pic" src="https://media.giphy.com/media/OtdBjyOuwJDoY/giphy.gif" style="width: 150px;" />
 <img class="project-pic" src="http://cache.magicmaman.com/data/fichiers/40/bourrelet.gif" style="width: 150px;" />
 <img class="project-pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosQUGzWmnYQpOFQgjG-28aYQoBWVJpOZbLg&usqp=CAU" style="width: 150px;" />
 <p></p>
